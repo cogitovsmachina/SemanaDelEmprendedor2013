@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:baselineAligned="false"
+    android:padding="@dimen/multipane_half_padding">
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:padding="@dimen/multipane_half_padding"
+        android:layout_marginRight="4dp"
+        android:id="@+id/act_explore_container_speakers"
+        android:background="@drawable/grey_frame"
+        android:layout_weight="1">
+        <TextView style="@style/HomePaneHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/act_explore_tab_speakers"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:padding="@dimen/multipane_half_padding"
+        android:id="@+id/act_explore_container_sessions"
+        android:layout_marginLeft="4dp"
+        android:background="@drawable/grey_frame"
+        android:layout_weight="1">
+        <TextView style="@style/HomePaneHeader"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/act_explore_tab_sessions"/>
+    </LinearLayout>
+</LinearLayout>

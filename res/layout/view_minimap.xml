@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/frag_minimap_img"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView android:id="@+id/frag_explore_map_img"
+        android:layout_width="match_parent"
+        android:adjustViewBounds="true"
+        android:layout_height="match_parent"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/frag_explore_map_txt"
+        android:textColor="@color/xp_minimap_txt"
+        android:textSize="20sp"/>
+
+</FrameLayout>

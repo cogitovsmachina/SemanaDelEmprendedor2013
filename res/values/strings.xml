@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semana del Emprendedor</string>
+    <string name="act_main_tab_agenda">Agenda</string>
+    <string name="act_main_tab_explore">Explorar</string>
+    <string name="frag_explore_map_txt">Mapa</string>
+    <string name="act_main_tab_stream">Stream</string>
+    <string name="act_explore_tab_sessions">Sesiones</string>
+    <string name="act_explore_tab_speakers">Expositores</string>
+    <string name="act_session_txt_speakers_singular">Expositor</string>
+    <string name="act_session_txt_speakers_plural">Expositores</string>
+    <string name="frag_sessions_empty">No hay contenido disponible para esta sección. Explora otra sección.</string>
+    <string name="action_map">Ubicación en Mapa</string>
+    <string name="map_level1">Ecosistemas</string>
+    <string name="map_level2">Patrocinadores</string>
+    <string name="title_my_schedule">Agenda</string>
+    <string name="title_explore">Explorar</string>
+    <string name="title_stream">Stream</string>
+    
+    
+    <string name="title_activity_map">Mapa</string>
+
+</resources>

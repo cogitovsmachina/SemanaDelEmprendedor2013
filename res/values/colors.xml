@@ -1,0 +1,48 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- APP BACKGROUND -->
+    <color name="app_background">#F2F2F2</color>
+
+    <!-- ACTIONBAR BACKGROUND -->
+    <color name="ab_gradient_bg_start">#e4e4e4</color>
+    <color name="ab_gradient_bg_middle">#f5f5f5</color>
+    <color name="ab_gradient_bg_end">#e4e4e4</color>
+
+    <!-- ACTIONBAR TABS -->
+    <color name="ab_tab_txt_selected">#088f46</color>
+    <color name="ab_tab_txt_unselected">#444444</color>
+    <color name="ab_tab_bgnd_unselected">#e5e5e5</color>
+    <color name="ab_tab_bar">#2faf65</color>
+    <color name="ab_tab_highlight">#882faf65</color>
+
+    <!-- EXPLORE FRAGMENT -->
+    <color name="xp_minimap_txt">#000</color>
+
+    <!-- LISTVIEW HEADER -->
+    <color name="lv_header_txt_color">#088f46</color>
+    <color name="lv_header_underline">#088f46</color>
+
+    <!-- LISTVIEW ROW ITEM -->
+    <color name="lv_row_txt_title">#1ba552</color>
+    <color name="lv_row_txt_speaker">#444444</color>
+    <!-- <color name="lv_row_txt_location">#7c7c7c</color> -->
+    <color name="lv_row_time_background">#EAEAEA</color>
+    <color name="lv_row_txt_location">#828282</color>
+
+    <!-- LIST DIVIDER -->
+    <color name="lv_divider">#b4c1b9</color>
+
+    <!-- SESSION DETAIL -->
+    <color name="sd_header_background">#e3e3e3</color>
+    <color name="sd_header_txt_title">#000</color>
+    <color name="sd_header_txt_subtitle">#454545</color>
+    <color name="sd_content_txt_description">#000</color>
+
+    <!-- Map Buttons -->
+    <color name="semitransparent_white">#95ffffff</color>
+    
+      <!-- Tablet UI -->
+    <color name="home_pane_header">#99000000</color>
+    
+
+</resources>
